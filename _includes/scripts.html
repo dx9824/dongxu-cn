@@ -1,4 +1,21 @@
 <script src="assets/js/main.min.js"></script>
+<script>
+  (function () {
+    var button = document.querySelector('.theme-toggle');
+    if (!button) return;
+    function sync() {
+      button.setAttribute('aria-pressed', document.documentElement.getAttribute('data-theme') === 'light');
+    }
+    button.addEventListener('click', function (event) {
+      event.preventDefault();
+      var next = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('xd-theme', next);
+      sync();
+    });
+    sync();
+  }());
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

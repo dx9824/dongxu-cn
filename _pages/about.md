@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -17,10 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<section class="hero-tech">
+  <div class="hero-tech__copy">
+    <div class="hero-tech__status"><span></span> 智能传播 · 数字治理 · 人机交互</div>
+    <p class="hero-tech__eyebrow">传播学研究者 / 博士研究生</p>
+    <h1>董旭<span class="hero-tech__cursor">_</span></h1>
+    <p class="hero-tech__lead">探索人工智能、数字媒体与社交平台如何重塑公众信任、风险感知与组织回应。</p>
+    <div class="hero-tech__actions">
+      <a class="tech-button tech-button--primary" href="#-lwzl">查看研究 <span>↗</span></a>
+      <a class="tech-button" href="mailto:dongxu98@ruc.edu.cn">联系我</a>
+      <a class="tech-button" href="https://easylink.cc/j6vwn">个人简历</a>
+    </div>
+    <div class="hero-tech__metrics">
+      <div><strong>17</strong><span>CSSCI / SSCI 论文</span></div>
+      <div><strong>02</strong><span>ICA 学生论文奖</span></div>
+      <div><strong>13</strong><span>国际会议报告</span></div>
+    </div>
+  </div>
+  <div class="hero-tech__visual">
+    <div class="portrait-orbit portrait-orbit--outer"></div>
+    <div class="portrait-orbit portrait-orbit--inner"></div>
+    <div class="portrait-frame"><img src="images/android-chrome-512x512.png" alt="董旭"></div>
+    <span class="signal signal--one">AI</span>
+    <span class="signal signal--two">HCI</span>
+    <span class="signal signal--three">TRUST</span>
+  </div>
+</section>
+
 
 <span class='anchor' id='-xl'></span>
 
-# 👏 欢迎来到我的个人主页
+# 个人简介
 - 我目前就读于中国人民大学新闻学院，专业为传媒经济学，师从[张辉锋教授](http://jcr.ruc.edu.cn/zw/jzyg/js/e48d5ecf199647e6b6d66187405d2579.htm)；目前正在新加坡国立大学传播与新媒体系进行国家公派博士生联合培养，方向为计算传播学，师从[Subhayan Mukerjee助理教授](https://www.subhayan.com/)。硕士研究生阶段，我师从[殷琦教授](https://comm.xmu.edu.cn/info/1561/56732.htm)。
 - 我的研究聚焦于技术中介的传播行为与数字治理，关注公众感知、信任建构与组织回应机制的传播过程，尤其是在风险与危机语境中的传播心理与舆论演化。
 - 我的研究兴趣主要包括：智能传播与人机交互、数字治理与危机传播、组织传播等。
@@ -31,7 +58,7 @@ redirect_from:
 - 连续两年（2025、2026）获得国际传播协会（ICA）最佳学生论文奖。连续两年获得清华大学博士生学术论坛“最佳论文奖”。
 - 连续2年获得博士研究生国家奖学金，连续2年获得中国人民大学学业一等奖学金。
 
-# 🎓 教育经历
+# 教育经历
 - *2025.08 -2026.07*, <a href="https://www.nus.edu.sg/"><img class="png"  src="images/nus logo.png" width="30pt"></a> 新加坡国立大学 传播与新媒体系, 新加坡, 国家公派博士生联合培养 
 - *2023.09 -*, <a href="https://www.ruc.edu.cn/"><img class="png" src="images/ruclogo1.png" width="25pt"></a> 中国人民大学 新闻学院, 北京, 博士在读 
 - *2020.09 - 2023.06*, <a href="https://www.xmu.edu.cn/"><img class="jpg" src="images/xmu_logo.jpg" width="25pt"></a> 厦门大学 新闻传播学院, 福建厦门, 新闻与传播专业硕士学位
@@ -39,7 +66,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文发表
+# 论文发表
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI 2025</div><img src='images/frame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -176,7 +203,7 @@ redirect_from:
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 荣誉奖项
 ### 奖学金
 - *2025.12*，国家奖学金
 - *2025.11*，中国人民大学学业一等奖学金
@@ -200,7 +227,7 @@ redirect_from:
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议（2023-）
+# 学术会议（2023-）
 
 ### 国际
 - *2025.08*, AEJMC, 美国旧金山, 海报张贴
@@ -220,7 +247,7 @@ redirect_from:
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 科研项目
+# 科研项目
 ### 主持
 - *2025.06 -*（在研）, 四川网络文化研究中心项目《网络舆论的跨平台扩散效应与社会信任重构研究》
 - *2024.12 -*（在研）, 中国人民大学学术拔尖创新人才资助项目
@@ -235,7 +262,7 @@ redirect_from:
 
 <span class='anchor' id='-gzsx'></span>
 
-# 📚 学术服务
+# 学术服务
 - CSSCI期刊《国际新闻界》责任编辑（2023-）
 - SSCI期刊《Online Information Review》《Humanities and Social Sciences Communications》《BMC pyschology》《Chinese Journal of Communication》审稿人
 - ICA，AEJMC等国际顶会审稿人

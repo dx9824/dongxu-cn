@@ -29,9 +29,9 @@ redirect_from:
       <a class="tech-button" href="https://easylink.cc/j6vwn">个人简历</a>
     </div>
     <div class="hero-tech__metrics">
-      <div><strong>17</strong><span>CSSCI / SSCI 论文</span></div>
+      <div><strong>23</strong><span>CSSCI / SSCI 论文</span></div>
       <div><strong>02</strong><span>ICA 学生论文奖</span></div>
-      <div><strong>13</strong><span>国际会议报告</span></div>
+      <div><strong>14</strong><span>国际会议报告</span></div>
     </div>
   </div>
   <div class="hero-tech__visual">
@@ -52,9 +52,9 @@ redirect_from:
 - 我的研究聚焦于技术中介的传播行为与数字治理，关注公众感知、信任建构与组织回应机制的传播过程，尤其是在风险与危机语境中的传播心理与舆论演化。
 - 我的研究兴趣主要包括：智能传播与人机交互、数字治理与危机传播、组织传播等。
 - 我擅长使用自然语言处理与多模态分析、社会网络分析、实验法、问卷调查法、内容分析法等量化研究方法，并对田野调查、访谈法等质化研究方法有所应用。
-- 目前我已在《新闻与传播研究》《国际新闻界》《新闻大学》《新闻记者》《International Journal of Human-Computer Interaction》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文17篇（第一作者8篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
+- 目前我已在《新闻与传播研究》《国际新闻界》《新闻大学》《新闻记者》《International Journal of Human-Computer Interaction》《Cyberpsychology, Behavior, and Social Networking》《Online Information Review》《Chinese Journal of Communication》《International Journal of Public Opinion Research》等CSSCI/SSCI期刊发表论文23篇（第一作者/英文通讯作者11篇），相关成果多次获《经济日报》、光明网、中国社会科学网等媒体推介。
 - 我参与国家社科基金重大项目1项、国家社科基金一般项目1项、北京市社科重大专项1项；主持省厅级项目1项，主持校级科研项目2项。
-- 截至2026年1月，我已在ICA/AEJMC/IAMCR等国际会议汇报论文13篇。
+- 截至2026年8月，我已在ICA/AEJMC/IAMCR等国际会议汇报论文14篇。
 - 连续两年（2025、2026）获得国际传播协会（ICA）最佳学生论文奖。连续两年获得清华大学博士生学术论坛“最佳论文奖”。
 - 连续2年获得博士研究生国家奖学金，连续2年获得中国人民大学学业一等奖学金。
 

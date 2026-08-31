@@ -67,6 +67,16 @@ redirect_from:
 <span class='anchor' id='-lwzl'></span>
 
 # 论文发表
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI 2026</div><img src='images/CN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	[**SSCI**] `Dong, X.`, Sun, M.(2026). When Platform Format Compensates for Source Cues: The Effects of Community Notes on Misinformation Correction on Weibo. *International Journal of Human-Computer Interaction*.
+[[HTML]](https://doi.org/10.1080/10447318.2026.2721896) （影响因子：4.9）
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI 2025</div><img src='images/frame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

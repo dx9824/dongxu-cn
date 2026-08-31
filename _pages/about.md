@@ -77,6 +77,17 @@ redirect_from:
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIS 2026</div><img src='images/Citation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	[**SSCI**] `Dong, X.`, He, X.(2026).Hard to Read, Easy to Cite? How National Distance Shapes Citation Patterns in Communication Scholarship. *Journal of Information Science*.
+[[HTML]](https://doi.org/10.1177/01655515261478905) （影响因子：2.9）
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJHCI 2025</div><img src='images/frame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
